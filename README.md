@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdav5758)](https://github.com/anuraghazra/github-readme-stats)
 
+<script src="https://gist.github.com/kdav5758/4cbe2a1c606a583f7f3660f7e5c6ff73.js"></script>
+
 ## Recently updated
 <a href="https://github.com/kdav5758/useful-scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kdav5758&repo=useful-scripts" />
