@@ -1,6 +1,6 @@
 # Hi there :wave:! I'm Sebastian
 
-+ :seedling: **Programming growth:** Python, Bash, Markdown and Arduino
++ :seedling: **Programming growth:** Python, Bash, Java, Markdown and Arduino
 + :coffee: **Languages:** Spanish, English, Portuguese & Esperanto
 + :mailbox: **Contact:** kdav5758.contact@gmail.com
 + 💬 **Ask me about:** Python & Bash Scripting
