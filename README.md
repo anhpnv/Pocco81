@@ -1,3 +1,5 @@
+<img src="code3.png" align="right" />
+
 # Hi there :wave:! I'm Sebastian
 
 + :seedling: **Programming growth:** Python, Bash, Java, Markdown and Arduino
