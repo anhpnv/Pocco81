@@ -1,4 +1,4 @@
-<img src="prog_icon1.png" align="right" />
+<img src="https://i.imgur.com/UbOJ011.png" align="right" />
 
 # Hi there :wave:! I'm Sebastian
 
