@@ -1,4 +1,4 @@
-<img src="code3.png" align="right" />
+<img src="prog_icon1.png" align="right" />
 
 # Hi there :wave:! I'm Sebastian
 
