@@ -131,51 +131,6 @@ $\qquad$**Version Control**
 </a>
 </div>
 
-$\qquad$**Languages**
-
-<div style="text-align:center">
-<a href="https://www.spain.info/es/">
-  <img
-    alt="Spanish"
-    height="80"
-    width="110"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png" />
-</a>
-<a href="https://www.usa.gov/">
-  <img
-    alt="English"
-    height="80"
-    width="110"
-    src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" />
-</a>
-
-<a href="https://www.gov.br/pt-br">
-  <img
-    alt="Portuguese"
-    height="80"
-    width="110"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/800px-Flag_of_Brazil.svg.png" />
-</a>
-
-<a href="https://www.bundesregierung.de/breg-en">
-  <img
-    alt="German"
-    height="80"
-    width="110"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png" />
-</a>
-
-<a href="https://lernu.net/en">
-  <img
-    alt="Esperanto"
-    height="80"
-    width="110"
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Esperanto.svg/600px-Flag_of_Esperanto.svg.png" />
-</a>
-
-
-</div>
-
 
 ## Recently updated
 
