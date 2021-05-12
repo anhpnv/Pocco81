@@ -2,16 +2,15 @@
 
 <p float='left'>Under dev dev</p>
 
-Stats
-=====
+## Stats
 
-.. image:: https://github-readme-stats.vercel.app/api?username=kdav5758&show_icons=true&theme=radical
-   :alt: Stats
-   :align: left
-   :target: https://github.com/anuraghazra/github-readme-stats
-.. image:: https://github-readme-stats.vercel.app/api/top-langs/?username=kdav5758&layout=compact&langs_count=8&theme=radical
-   :alt: Top Lans
-   :align: right
-   :target: https://github.com/anuraghazra/github-readme-stats
+<p align="left">
+<img src ="https://github-readme-stats.vercel.app/api?username=kdav5758&show_icons=true&theme=radical">
+</p>
+
+<p align="right">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kdav5758&layout=compact&langs_count=8&theme=radical">
+</p>
+
 
 
