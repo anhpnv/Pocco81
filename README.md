@@ -8,7 +8,7 @@
 <img src ="https://github-readme-stats.vercel.app/api?username=kdav5758&show_icons=true&theme=radical">
 </p>
 
-<p align="right">
+<p align="left">
 <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kdav5758&layout=compact&langs_count=8&theme=radical">
 </p>
 
