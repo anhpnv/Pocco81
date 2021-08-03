@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning Golang.
 - 👯 Part of the developer community.
 - 💬 Ask me about anything, I'd happy to answer it
-- 📫 How to reach me: via my [website](https://seanmcginty.space/)
+- 📫 How to reach me: via [telegram](https://t.me/Pocco81)
 
 &#x200B;
 
