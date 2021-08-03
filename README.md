@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on a [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
 - 🌱 I’m currently learning Golang.
-- 👯 Part of Developer Community.
+- 👯 Part of the developer community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via my [website](https://seanmcginty.space/)
 - ⚡ Student at Wesley College - South Perth
