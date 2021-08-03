@@ -1,29 +1,43 @@
 # Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Pocco81" />
+<img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Trophies" />
 
-
-<img align="right" width=420px alt="GIF" src="https://media.giphy.com/media/3ohhwNqFMnb7wZgNnq/giphy.gif" />
+&#x200B;
 
 **About Me:**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pocco81&label=Profile%20views&color=0e75b6&style=flat" alt="Pocco81" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pocco81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working on a [Computer Science Programming Project](https://github.com/Pocco81/Computer-Science-ATAR).
-- 🌱 I’m currently learning typescript.
+<img align="right" height=300px width=300px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
+
+- 🔭 I’m currently working on a [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
+- 🌱 I’m currently learning Golang.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via my [website](https://seanmcginty.space/)
 - ⚡ Student at Wesley College - South Perth
-- ✨ I am learning to speak Indonesian
+
+&#x200B;
 
 **Tools / Languages:**
 
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
+![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
+![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&logoColor=294172)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=d64613)
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 
 **Notes:**
 
-Mostly a private codebase, which is why you don't see many repositories.
-If you would like to have access to a particular repository, send me an email.
++ If a repo hasn't had new commits recently, it's simply becaue I consider it a finished project, not because it's abandoned.
 
 **Stats:**
 
