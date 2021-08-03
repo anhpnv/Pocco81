@@ -6,7 +6,7 @@
 
 **About Me:**
 
-<img align="right" height=300px width=300px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
+<img align="right" height=250px width=250px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pocco81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
 
