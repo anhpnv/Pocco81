@@ -16,7 +16,6 @@
 - 👯 Part of the developer community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via my [website](https://seanmcginty.space/)
-- ⚡ Student at Wesley College - South Perth
 
 &#x200B;
 
