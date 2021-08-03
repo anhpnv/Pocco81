@@ -4,6 +4,8 @@
 
 &#x200B;
 
+Hi, I'm a under development developer!
+
 **About Me:**
 
 <img align="right" height=300px width=300px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
