@@ -8,9 +8,6 @@ Hi, I'm a under development developer!
 
 <img align="right" height=300px width=300px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pocco81&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </p>
-
-
 - 🔭 I’m currently working on a [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
 - 🌱 I’m currently learning Golang.
 - 👯 Part of the developer community.
