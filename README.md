@@ -2,8 +2,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Trophies" />
 
-&#x200B;
-
 Hi, I'm a under development developer!
 
 **About Me:**
