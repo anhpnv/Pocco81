@@ -4,7 +4,7 @@
 
 Hi, I'm a under development developer!
 
-<img align="right" height=300px width=300px alt="GIF" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
+<img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
 **About Me:**
 
