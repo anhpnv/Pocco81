@@ -34,7 +34,7 @@ Hi, I'm a under development developer!
 
 **Notes:**
 
-+ If a repo hasn't had new commits recently, it's simply becaue I consider it a finished project, not because it's abandoned.
++ If a repo hasn't had new commits recently, it's simply because I consider it a finished project, not because it's abandoned.
 
 **Stats:**
 
