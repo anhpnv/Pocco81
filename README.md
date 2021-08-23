@@ -8,7 +8,7 @@ Hi, I'm a under development developer!
 
 **About Me:**
 
-- 🔭 I’m currently working on a [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
+- 🔭 I’m currently working on a [Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) & [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
 - 🌱 I’m currently learning Golang.
 - 👯 Part of the developer community.
 - 💬 Ask me about anything, I'd happy to answer it
