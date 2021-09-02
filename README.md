@@ -9,7 +9,7 @@ Hi, I'm a under development developer!
 **About Me:**
 
 - 🔭 I’m currently working on a [Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) & [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Golang & JavaScript.
 - 👯 Part of the developer community.
 - 💬 Ask me about anything, I'd happy to answer it
 - 📫 How to reach me: via [telegram](https://t.me/Pocco81)
@@ -18,9 +18,12 @@ Hi, I'm a under development developer!
 
 **Tools / Languages:**
 
+<!-- Icons: https://simpleicons.org/ -->
+
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
