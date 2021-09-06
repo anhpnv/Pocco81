@@ -1,18 +1,16 @@
 <h1 align="center">Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Trophies">
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Trophies" />
 
 <img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
 **About Me:**
 
-- 🔭 I’m currently working on a [Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) & [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
-- 🌱 I’m currently learning Golang & JavaScript.
-- 👯 Part of the developer community.
-- 💬 Ask me about anything, I'd happy to answer it
-- 📫 How to reach me: via [telegram](https://t.me/Pocco81)
+-   🔭 I’m currently working on a [Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) & [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
+-   🌱 I’m currently learning Golang & JavaScript.
+-   👯 Part of the developer community.
+-   💬 Ask me about anything, I'd happy to answer it
+-   📫 How to reach me: via [telegram](https://t.me/Pocco81)
 
 &#x200B;
 
@@ -37,8 +35,8 @@
 
 **Notes:**
 
-+ Dotfiles: [TheSupercalifragilisticexpialidociousDots](https://github.com/Pocco81/TheSupercalifragilisticexpialidociousDots)
-+ If a repo hasn't had new commits recently, it's simply because I consider it a finished project, not because it's abandoned :)
+-   Dotfiles: [TheSupercalifragilisticexpialidociousDots](https://github.com/Pocco81/TheSupercalifragilisticexpialidociousDots)
+-   If a repo hasn't had new commits recently, it's simply because I consider it a finished project, not because it's abandoned :)
 
 **Stats:**
 
