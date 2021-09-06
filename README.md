@@ -1,4 +1,4 @@
-# Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px">
+<h1 align="center">Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=15&margin-h=15&column=7&v=2" alt="Trophies" />
 
