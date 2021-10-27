@@ -7,7 +7,7 @@
 **About Me:**
 
 -   🔭 I’m currently working on a [Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) & [MerelyFmt.nvim](https://github.com/Pocco81/MerelyFmt.nvim)
--   🌱 I’m currently learning Golang & JavaScript.
+-   🌱 At the moment I'm learning Golang & JavaScript.
 -   👯 Part of the developer community.
 -   💬 Ask me about anything, I'd happy to answer it
 -   📫 How to reach me: via [telegram](https://t.me/Pocco81)
@@ -32,6 +32,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+
+**Connect with me:**
+ 
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
+[<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
 
 **Notes:**
 
