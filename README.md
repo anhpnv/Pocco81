@@ -1,8 +1,10 @@
 <h1 align="center">Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
+---
 <p align="center">
 	<img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&margin-w=12&margin-h=10&column=7&no-frame=true" alt="Trophies" />
 </p>
+---
 
 <img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
