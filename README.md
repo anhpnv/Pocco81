@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Pocco81 <img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/Hi.gif?raw=true" width="30px"></h1>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=Pocco81&theme=onedark&column=6&rank=SSS,SS,S,AAA,AA,A,B,C&no-frame=true" alt="Trophies" />
 </p>
 
 <img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
