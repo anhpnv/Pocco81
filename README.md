@@ -45,7 +45,5 @@
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="Pocco81" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&theme=algolia" />
 
-<p align="center"><img src="https://raw.githubusercontent.com/arcticicestudio/nord-docs/develop/assets/images/nord/repository-footer-separator.svg?sanitize=true" /></p>
-
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
