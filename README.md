@@ -38,11 +38,6 @@
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
 
-**Notes:**
-
--   Dotfiles: [TheSupercalifragilisticexpialidociousDots](https://github.com/Pocco81/TheSupercalifragilisticexpialidociousDots)
--   If a repo hasn't had new commits recently, it's simply because I consider it a finished project, not because it's abandoned :)
-
 **Stats:**
 
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="Pocco81" />
