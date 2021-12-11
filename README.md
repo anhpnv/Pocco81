@@ -45,7 +45,7 @@
 **Stats:**
 
 <!-- Catppuccin theme -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=10,2d293b,1e1e28" alt="Pocco81" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=10,1e1e28,2d293b" alt="Pocco81" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=10,1e1e28,2d293b" />
 
 [gmail]: mailto:pocco451@gmail.com
