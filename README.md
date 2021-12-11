@@ -12,7 +12,6 @@
 -   🌱 At the moment I'm learning Golang & JavaScript.
 -   👯 Part of the developer community.
 -   💬 Ask me about anything, I'd happy to answer it
--   📫 How to reach me: via [telegram](https://t.me/Pocco81)
 
 &#x200B;
 
@@ -39,13 +38,16 @@
  
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
+[<img align="left" alt="Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
 
 &#x200B;
 
 **Stats:**
 
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&count_private=true&include_all_commits=true&theme=algolia&show_icons=true" alt="Pocco81" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&theme=algolia" />
+<!-- Catppuccin theme -->
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=20,2d293b,3e4058" alt="Pocco81" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=20,3e4058,2d293b" />
 
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
+[telegram]: https://t.me/Pocco81
