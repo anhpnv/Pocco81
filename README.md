@@ -45,8 +45,8 @@
 **Stats:**
 
 <!-- Catppuccin theme -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=20,2d293b,3e4058" alt="Pocco81" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=20,3e4058,2d293b" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=20,2d293b,1e1e28" alt="Pocco81" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=20,1e1e28,2d293b" />
 
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
