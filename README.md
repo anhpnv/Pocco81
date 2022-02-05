@@ -18,7 +18,7 @@
 
 <!-- Icons: https://simpleicons.org/ -->
 
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&color=302d41&logo=gnu-bash&logoColor=4EAA25)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat-square&color=302d41&logo=gnu-bash&logoColor=4EAA25)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
