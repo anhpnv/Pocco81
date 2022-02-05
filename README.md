@@ -32,6 +32,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=302d41&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=mysql&logoColor=4479A1)
+![Inkscape](https://img.shields.io/badge/-Inkscape-05122A?style=for-the-badge&color=302d41&logo=inkscape&logoColor=D9E0EE)
 
 &nbsp;
 
