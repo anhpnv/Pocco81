@@ -19,12 +19,12 @@
 <!-- Icons: https://simpleicons.org/ -->
 
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=for-the-badge&color=302d41&logo=gnu-bash&logoColor=4EAA25)
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=for-the-badge&color=302d41&logo=lua&logoColor=0062cc)
+![Go](https://img.shields.io/badge/-Go-05122A?style=for-the-badge&color=302d41&logo=go&logoColor=00a7d0)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&color=302d41&logo=javascript&logoColor=F7DF1E)
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=302d41&logo=markdown)
+![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=302d41&logo=neovim&logoColor=4b9e4b)
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=302d41&logo=linux&logoColor=dfb914)
 ![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
 ![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&logoColor=294172)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=d64613)
