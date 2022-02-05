@@ -9,8 +9,8 @@
 ### About Me
 
 -   🔭 I’m currently working on a [Catppuccin](https://github.com/catppuccin)
--   🌱 At the moment I'm learning Golang & JavaScript.
--   💬 Ask me about anything, I'd happy to answer ;)
+-   🌱 At the moment I'm learning Golang & JavaScript
+-   💬 Ask me about anything, I'd be happy to answer ;)
 
 &#x200B;
 
@@ -42,7 +42,7 @@
 
 &#x200B;
 
-### Stats
+### ⭐ Stats
 
 <!-- Catppuccin themed -->
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=10,1e1e28,2d293b" alt="Pocco81" />
