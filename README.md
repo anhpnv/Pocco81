@@ -47,8 +47,8 @@
 ### ⭐ Stats
 
 <!-- Catppuccin themed -->
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=10,1e1e2e" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=10,1e1e2e" alt="Most Used Languages" />
+<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=1e1e2e" alt="Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=1e1e2e" alt="Most Used Languages" />
 
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
