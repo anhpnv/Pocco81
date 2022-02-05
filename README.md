@@ -48,7 +48,7 @@
 
 <!-- Catppuccin themed -->
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff" alt="Github Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=d9e0ee&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&bg_color=302d41&border_color=302d41&title_color=f5e0dc&text_color=ffffff&icon_color=c9cbff&langs_count=6" alt="Most Used Languages" />
 
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
