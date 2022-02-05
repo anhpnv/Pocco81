@@ -6,7 +6,7 @@
 
 <img align="right" height=300px width=300px alt="Catpuccino gif" src="https://raw.githubusercontent.com/Pocco81/Pocco81/main/assets/catpuccino.gif" />
 
-**About Me:**
+### About Me
 
 -   🔭 I’m currently working on a [Catppuccin](https://github.com/catppuccin)
 -   🌱 At the moment I'm learning Golang & JavaScript.
@@ -14,7 +14,7 @@
 
 &#x200B;
 
-**Tools / Languages:**
+### Tools / Languages
 
 <!-- Icons: https://simpleicons.org/ -->
 
@@ -33,20 +33,22 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 
-**Connect with me:**
- 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
+### Connect with me
+
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
+[<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" />][discord]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
 
 &#x200B;
 
-**Stats:**
+### Stats
 
-<!-- Catppuccin theme -->
+<!-- Catppuccin themed -->
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Pocco81&show_icons=true&title_color=ecbfbd&text_color=d7dae0&icon_color=a4b9ef&bg_color=10,1e1e28,2d293b" alt="Pocco81" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pocco81&layout=compact&show_icons=true&title_color=ecbfbd&text_color=ffffff&icon_color=a4b9ef&bg_color=10,1e1e28,2d293b" />
 
 [gmail]: mailto:pocco451@gmail.com
 [reddit]: https://www.reddit.com/user/Pocco81
 [telegram]: https://t.me/Pocco81
+[discord]: https://discord.com/users/870140329930653747
