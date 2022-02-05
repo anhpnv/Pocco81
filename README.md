@@ -12,7 +12,7 @@
 -   🌱 At the moment I'm learning Golang & JavaScript
 -   💬 Ask me about anything, I'd be happy to answer ;)
 
-&#x200B;
+&nbsp;
 
 ### Tools / Languages
 
@@ -33,6 +33,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
 
+&nbsp;
+
 ### Connect with me
 
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
@@ -40,7 +42,7 @@
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
 
-&#x200B;
+&nbsp;
 
 ### ⭐ Stats
 
