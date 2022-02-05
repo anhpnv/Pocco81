@@ -18,7 +18,7 @@
 
 <!-- Icons: https://simpleicons.org/ -->
 
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=4EAA25)
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&color=302d41&logo=gnu-bash&logoColor=4EAA25)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
 ![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go&logoColor=00a7d0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -38,7 +38,7 @@
 ### Connect with me
 
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
-[<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" />][discord]
+<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" />][discord]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
 [<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
 
