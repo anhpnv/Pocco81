@@ -38,7 +38,7 @@
 [<img align="left" alt="Reddit" width="22px" src="https://cdn.icon-icons.com/icons2/1195/PNG/512/1490889653-reddit_82537.png" />][reddit]
 [<img align="left" alt="Discord" width="22px" src="https://cdn.icon-icons.com/icons2/1945/PNG/512/iconfinder-discord-4661587_122459.png" />][discord]
 [<img align="left" alt="Telegram" width="22px" src="https://cdn.icon-icons.com/icons2/923/PNG/512/telegram_icon-icons.com_72055.png" />][telegram]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/272/PNG/512/Gmail_29991.png" />][gmail]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/gmail_logo_icon_147283.png" />][gmail]
 
 &#x200B;
 
