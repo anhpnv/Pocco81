@@ -25,13 +25,13 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&color=302d41&logo=markdown)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=for-the-badge&color=302d41&logo=neovim&logoColor=4b9e4b)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&color=302d41&logo=linux&logoColor=dfb914)
-![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=flat&logo=archlinux&logoColor=3399cc)
-![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=flat&logo=fedora&logoColor=294172)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu&logoColor=d64613)
-![Vim](https://img.shields.io/badge/-Vim-05122A?style=flat&logo=vim&logoColor=4EAA25)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
+![Arch Linux](https://img.shields.io/badge/-Arch-05122A?style=for-the-badge&color=302d41&logo=archlinux&logoColor=3399cc)
+![Fedora](https://img.shields.io/badge/-Fedora-05122A?style=for-the-badge&color=302d41&logo=fedora&logoColor=294172)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=for-the-badge&color=302d41&logo=ubuntu&logoColor=d64613)
+![Vim](https://img.shields.io/badge/-Vim-05122A?style=for-the-badge&color=302d41&logo=vim&logoColor=4EAA25)
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&color=302d41&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&color=302d41&logo=github)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=for-the-badge&color=302d41&logo=mysql&logoColor=4479A1)
 
 &nbsp;
 
